@@ -49,7 +49,7 @@
 
 
 ## ERD
-
+![스크린샷 2024-08-22 010422](https://github.com/user-attachments/assets/8cf76bd8-8298-4f87-a0eb-d45d2645cfa5)
 
 ## Trouble Shooting
 수정 예정
